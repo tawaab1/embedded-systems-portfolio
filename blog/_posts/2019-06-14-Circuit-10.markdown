@@ -1,0 +1,14 @@
+---
+layout: "post"
+title: "Circuit 3c - Circuit Alarm"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+---
+* There are a few changes that I made to the logical coding of: Circuit 3c - Motion Alarm
+
+* utilising code from SIK_Circuit_1c-motion_alarm. The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-3c-motion-alarm
+
+* I had made change to the three if statements provide. if( distance <= 10){ turn the rgb red, sound the alarm and run the motor}; else if( distance >= 10 && distance <= 20){ turn the rgb light yellow}; else if(distance is more than 20){ turn the rgb light green}.
+
+* Reflection: I did similar changes here as the circuit done before (Circuit 3b - ). The only change was rather than having the first if statement (if(distance <= 5)), I had if(distance <= 10)
+  {light red, sound the alarm and run the motor}

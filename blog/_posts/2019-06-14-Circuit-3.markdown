@@ -1,0 +1,18 @@
+---
+layout: "post"
+title: "Circuit 1c - Photoresistor"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+---
+
+* Changes I made to the code was: lowering the threshold to see if the light turned off because in the source code
+  the threshhold started at 750, and readings on the serial monitor was peaking at 160s
+   utilising code from SIK_Circuit_1c-photoresistor.
+  
+* The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1b-photoresistor
+  
+* This circuit was run during the day, the shadow of my monitor was able to lower light enough to the light sensor to turn it on.
+  Bring the light sensor to a bright area of the room managed to turn it off.
+
+* In the video the readings on the serial monitor fluctuated when I moved the arduino because my arm still covered the light sensor which gave low readings at the start.
+  

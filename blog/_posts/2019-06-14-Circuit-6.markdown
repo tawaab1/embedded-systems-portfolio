@@ -1,0 +1,9 @@
+---
+layout: "post"
+title: "Circuit 2b - Digital Trumpet"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+---
+* There are no original extensions to: Circuit 2b - Digital Trumpet utilising code from SIK_Circuit_1c-digital_trumpet. The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2b-digital-trumpet
+   
+* There were no needed changes that could have improved the experience of the buzzer circuit.

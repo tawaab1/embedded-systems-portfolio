@@ -1,0 +1,21 @@
+---
+layout: "post"
+title: "Circuit 1a - Blinking an LED"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+youtubeId: tV4e2xNUsz4
+---
+
+* There are no original extensions to this first circuit that I built.
+
+* utilising codes from SIK_Circuit_1A-Blink. the source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1a-blink-an-led
+
+* There were issues that I did run into with my end product like the LED light wasnt blink. So I had to reassess my build and see what had gone wrong with the build. Apparently the yellow jumper wire that was connected to the breadboard was sitting in the wrong position, in which I had to correct.
+
+* Reflection: In the code example, digitalWrite (13, High)- turns on the LED while  digitalWrite (13, Low) - turns it "off", which is delayed by 2 seconds (delay(2000)).
+
+* To make it blink faster I can just lower the delay timer of the circuit.
+
+{% include youtubePlayer.html id=tV4e2xNUsz4 %}
+
+ 
