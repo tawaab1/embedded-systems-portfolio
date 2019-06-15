@@ -3,6 +3,7 @@ layout: "post"
 title: "Circuit 1d- RGB Nightlight"
 author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
+youtubeId: ts54Bsct-gk
 ---
 
 * There are no original extensions to: Circuit 1d - RGB Night Light utilising code from SIK_Circuit_1c-rgb_night_light.
@@ -12,3 +13,5 @@ date:   2019-06-14 15:00:00 +1300
 * The circuit was run under the presence of artificial light so I need to cover the photoresistor with my hand so to get the RGB light to work
 
 * There was no original code implemented into the existing one.
+
+{% include youtubePlayer4.html id=ts54Bsct-gk %}

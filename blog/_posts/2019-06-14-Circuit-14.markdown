@@ -1,0 +1,16 @@
+---
+layout: "post"
+title: "Circuit 5a - Motor Basics"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+youtubeId: dBmB5Js1vnQ
+---
+* There were no significant changes that I made to : Circuit 5a - Motor Basics
+
+* utilising code from SIK_Circuit_5a-MotorBasics. The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-5a-motor-basics)
+
+* Bug: I noticed that the limit say about 0-255, and the motors did not run beyond 255 to 299 but beyond that it started running again. If I were to run 500 or 1500, the motors would still run but would not go faster as it were on 255. Even when I tried to implement my own if statement so that if the user has an input of more than 255, do not run the motor (instead show a message saying its "too fast"), it still did not work.
+
+* Reflection: Looking back on this, I can clearly see the implementation of this on toy cars and robots which have a remote control to make the motors function.
+
+{% include youtubePlayer14.html id=dBmB5Js1vnQ %}

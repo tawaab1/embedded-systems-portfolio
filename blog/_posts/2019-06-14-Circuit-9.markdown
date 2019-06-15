@@ -3,6 +3,7 @@ layout: "post"
 title: "Circuit 3b - Distance Sensor"
 author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
+youtubeId: A-Z6YLDT3dg
 ---
 * There are a few changes that I made to the logical coding of: Circuit 3b - Distance Sensor
 
@@ -13,3 +14,5 @@ date:   2019-06-14 15:00:00 +1300
   rgb light yellow}; else if(distance is more than 20){ turn the rgb light green}.
    
 * Reflection: I did it this way because it looked more logical to me than the default coding provided
+
+{% include youtubePlayer9.html id=A-Z6YLDT3dg %}

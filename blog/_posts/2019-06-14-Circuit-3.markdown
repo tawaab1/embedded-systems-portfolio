@@ -3,6 +3,7 @@ layout: "post"
 title: "Circuit 1c - Photoresistor"
 author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
+youtubeId: emIhVnD6vwE
 ---
 
 * Changes I made to the code was: lowering the threshold to see if the light turned off because in the source code
@@ -15,4 +16,5 @@ date:   2019-06-14 15:00:00 +1300
   Bring the light sensor to a bright area of the room managed to turn it off.
 
 * In the video the readings on the serial monitor fluctuated when I moved the arduino because my arm still covered the light sensor which gave low readings at the start.
-  
+
+{% include youtubePlayer3.html id=emIhVnD6vwE %}

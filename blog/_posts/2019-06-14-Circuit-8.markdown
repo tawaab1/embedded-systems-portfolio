@@ -3,9 +3,12 @@ layout: "post"
 title: "Circuit 3a - Servo Motors"
 author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
+youtubeId: 6o9FdLarvmw
 ---
 * There are no original extensions to: Circuit 3a - Servo Motors
 
 * utilising code from SIK_Circuit_1c-servo_motors. The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-3a-servo-motors
 
 * There were no needed changes that could have improved the experience of the buzzer circuit.
+
+{% include youtubePlayer8.html id=6o9FdLarvmw %}

@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "Circuit 5c - Autonomous Robot"
+author: "Aisea Tawake"
+date:   2019-06-14 15:00:00 +1300
+youtubeId: QYmM0mgeAkM
+---
+
+{% include youtubePlayer16.html id=QYmM0mgeAkM %}
+{% include youtubePlayer16.html id=MLZ-6VWs97k %}
