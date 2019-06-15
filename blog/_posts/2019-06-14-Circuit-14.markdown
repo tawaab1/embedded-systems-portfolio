@@ -13,4 +13,6 @@ youtubeId: dBmB5Js1vnQ
 
 * Reflection: Looking back on this, I can clearly see the implementation of this on toy cars and robots which have a remote control to make the motors function.
 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c14.png "image")
+
 {% include youtubePlayer14.html id=dBmB5Js1vnQ %}

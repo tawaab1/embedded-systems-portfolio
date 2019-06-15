@@ -5,8 +5,13 @@ author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
 youtubeId: zYHJbkM6CgE
 ---
-* There are no original extensions to: Circuit 2b - Digital Trumpet utilising code from SIK_Circuit_1c-digital_trumpet. The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2b-digital-trumpet
+* There are no original extensions to: Circuit 2b - Digital Trumpet utilising code from SIK_Circuit_1c-digital_trumpet.
+
+* The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2b-digital-trumpet)
    
-* There were no needed changes that could have improved the experience of the buzzer circuit.
+* Reflection: This exercise is an interesting experience and worth keeping note of if I am thinking of building a DIY electrical keyboard. This exercise could be useful to remember, if I am trying to implement this into my police car lights projects, where rather than switching sound patterns, I can switch different loops of light patterns.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c6.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c6a.png "image")
 
 {% include youtubePlayer6.html id=zYHJbkM6CgE %}

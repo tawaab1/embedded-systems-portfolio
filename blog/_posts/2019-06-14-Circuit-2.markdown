@@ -5,7 +5,7 @@ author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
 youtubeId: CiUxHTSzFfk
 ---
-* There are no original extensions to: Circuit 1b -Potentiometer utilising codes from SIK_Circuit_1b-Potentiometer. The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1b-potentiometer.
+* There are no original extensions to: Circuit 1b -Potentiometer utilising codes from SIK_Circuit_1b-Potentiometer. The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1b-potentiometer)
    
 * There were issues which resulted in some troubleshooting from myself. I had forgotten to plug in two jumper wires (5v to 5v) and the (GND to GND(+)) which resulted in the LED not flickering consistently which was a problem when trying to take readings from the serial monitor.
    
@@ -14,4 +14,6 @@ youtubeId: CiUxHTSzFfk
   
 * When turning the dial, the delay is measured from 0 to 1023.
 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c2.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c2a.png "image")
 {% include youtubePlayer2.html id=CiUxHTSzFfk %}

@@ -8,10 +8,14 @@ youtubeId: ts54Bsct-gk
 
 * There are no original extensions to: Circuit 1d - RGB Night Light utilising code from SIK_Circuit_1c-rgb_night_light.
 
-* The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1d-rgb-night-light
+* The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1d-rgb-night-light)
    
 * The circuit was run under the presence of artificial light so I need to cover the photoresistor with my hand so to get the RGB light to work
 
-* There was no original code implemented into the existing one.
+* Reflection: Looking back on this exercise, this is something I can implement on my project where I want to build police car light that changes patterns rather than just having
+one generic pattern of light.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c4.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c4a.png "image")
 
 {% include youtubePlayer4.html id=ts54Bsct-gk %}

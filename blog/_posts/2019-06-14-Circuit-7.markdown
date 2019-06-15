@@ -5,4 +5,15 @@ author: "Aisea Tawake"
 date:   2019-06-14 15:00:00 +1300
 youtubeId: 12ox0E7S35w
 ---
+
+* There are no original extensions to: Circuit 2b - Digital Trumpet utilising code from SIK_Circuit_1c-digital_trumpet.
+
+* The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2c-simon-says-game-)
+   
+* Reflection: This exercise made me appreciate the implementation and the making of electrical games like Bop It! which follows a similar "Simon says" pattern. If I were to implement this into
+my police car lights project it would probably to use the buttons to change the the light pattens.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c7.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c7a.png "image")
+
 {% include youtubePlayer7.html id=12ox0E7S35w %}

@@ -10,11 +10,15 @@ youtubeId: emIhVnD6vwE
   the threshhold started at 750, and readings on the serial monitor was peaking at 160s
    utilising code from SIK_Circuit_1c-photoresistor.
   
-* The source code was provided by https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1b-photoresistor
+* The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1c-photoresistor)
   
 * This circuit was run during the day, the shadow of my monitor was able to lower light enough to the light sensor to turn it on.
   Bring the light sensor to a bright area of the room managed to turn it off.
 
 * In the video the readings on the serial monitor fluctuated when I moved the arduino because my arm still covered the light sensor which gave low readings at the start.
 
+* Reflections: This exercise gives me a sense of how automated lights work in a house or in a garden (garden lights or pathway lights), where there is natural light the lights are switched off, and when there is an absence of natural light, the garden light/house lights are turned on. This maybe detected by some sort photoresistor.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c3.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c3a.png "image")
 {% include youtubePlayer3.html id=emIhVnD6vwE %}

@@ -6,5 +6,13 @@ date:   2019-06-14 15:00:00 +1300
 youtubeId: QYmM0mgeAkM
 ---
 
+* This exercise utilises code from SIK_Circuit_1c-motion_alarm. The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-5c-autonomous-robot)
+
+* Provide below are two videos, one of which shows the movement of the robot and the other is the details writen on the serial panel (whether its 'moving' or 'backing up').
+
+* Reflection: Looking back at this exercise, I can use what I have learnt to implement some sort of robot that not only detects if its going to hit something, but also implement a sensor if it goes dark it can switch on LED/RGB lights to light up its path.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c16.png "image")
+
 {% include youtubePlayer16.html id=QYmM0mgeAkM %}
 {% include youtubePlayer16.html id=MLZ-6VWs97k %}

@@ -12,4 +12,7 @@ youtubeId: e3VO8EposXE
 * Mistakes: Interestingly enough, I did not realise that the robots "face" was the wheels and the paper-clipper was its back, NOT the other way around. So I tried desperately to change the coding(changing the direction forward to -200, and backwards to 200) to fit my way of how I think the robot should be run. Even changing the motors around to make it go "forward".
 
 * Reflection: Most circuits done so far have been using the power source of the laptop but now implementing its own power source is great because now I can create a robot that does not rely on an outside power source.
+
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c15.png "image")
 {% include youtubePlayer15.html id=e3VO8EposXE %}
+
