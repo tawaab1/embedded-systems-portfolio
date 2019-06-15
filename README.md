@@ -6,7 +6,7 @@
 
 * Navigate to the 'blog' folder
 
-* open the bash command prompt with the 'blog' folder (this can be achieved by right-clicking within the empty space of the 'blog' folder)
+* open the bash command prompt within the 'blog' folder (this can be achieved by right-clicking within the empty space of the 'blog' folder)
 
 * type the command 'jekyll serve'
 
