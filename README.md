@@ -10,6 +10,6 @@
 
 * type the command 'jekyll serve'
 
-* once its loaded, open up a browser of your choice and copy the server address provided: http://127.0.0.1:4000/blog
+* once its loaded, open up a browser of your choice and copy the server address provided: http://127.0.0.1:4000/blog/
 
 * Done!
