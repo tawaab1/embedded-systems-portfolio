@@ -12,7 +12,7 @@ youtubeId: 4bnfq9rOx5Y
 * No code changes implemented with the original codes provided, although at some point I did tweak the output of Hello World to Hello Aisea before reverting it back.
 
 * Reflection: Looking back on this part of the circuit, I can use this method to help me build the Sensor project which requires me to show some kind of result to user when sensing some kind of atmospheric or environmental change.
-
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d11.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c11.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c11a.png "image")
 {% include youtubePlayer11.html id=4bnfq9rOx5Y %}

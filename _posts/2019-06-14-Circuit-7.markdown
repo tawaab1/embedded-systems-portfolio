@@ -12,7 +12,10 @@ youtubeId: 12ox0E7S35w
    
 * Reflection: This exercise made me appreciate the implementation and the making of electrical games like Bop It! which follows a similar "Simon says" pattern. If I were to implement this into
 my police car lights project it would probably to use the buttons to change the the light pattens.
-
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d7.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d71.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d72.png "image")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d73.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c7.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c7a.png "image")
 

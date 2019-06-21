@@ -15,7 +15,7 @@ youtubeId: tV4e2xNUsz4
 * Reflection: In the code example, digitalWrite (13, High)- turns on the LED while  digitalWrite (13, Low) - turns it "off", which is delayed by 2 seconds (delay(2000)).
 
 * To make it blink faster I can just lower the delay timer of the circuit.
-
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d1.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c1.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c1a.png "image")
 {% include youtubePlayer.html id=tV4e2xNUsz4 %}

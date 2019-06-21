@@ -13,6 +13,7 @@ youtubeId: e3VO8EposXE
 
 * Reflection: Most circuits done so far have been using the power source of the laptop but now implementing its own power source is great because now I can create a robot that does not rely on an outside power source.
 
+
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c15.png "image")
 {% include youtubePlayer15.html id=e3VO8EposXE %}
 

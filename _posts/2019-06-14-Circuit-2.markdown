@@ -14,6 +14,7 @@ youtubeId: CiUxHTSzFfk
   
 * When turning the dial, the delay is measured from 0 to 1023.
 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d2.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c2.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c2a.png "image")
 {% include youtubePlayer2.html id=CiUxHTSzFfk %}

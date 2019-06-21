@@ -10,7 +10,7 @@ youtubeId: zYHJbkM6CgE
 * The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2b-digital-trumpet)
    
 * Reflection: This exercise is an interesting experience and worth keeping note of if I am thinking of building a DIY electrical keyboard. This exercise could be useful to remember, if I am trying to implement this into my police car lights projects, where rather than switching sound patterns, I can switch different loops of light patterns.
-
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d6.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c6.png "image")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c6a.png "image")
 
