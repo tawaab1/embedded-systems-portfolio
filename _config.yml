@@ -17,7 +17,7 @@ title: Embedded Systems Portfolio
 email: tawaab1@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog post for Embedded Systems Portfolio.
-baseurl: "/blog" 
+baseurl: "/embedded-systems-portfolio" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
