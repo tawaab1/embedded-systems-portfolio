@@ -9,8 +9,8 @@ youtubeId: aXtKMlplMtI
 * There are no original extensions to: Circuit 2a - Buzzer utilising code from SIK_Circuit_1c-buzzer. The source code was provided by [Spark Fun](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2a-buzzer)
    
 * Reflections: most problems that I encounted with building this circuit was forgeting to attach the appropriate jumper wires so when I tempered with the volume there was noticable changes to the volume
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d51.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d52.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c5.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c5a.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d51.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d52.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c5.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c5a.png "image")
 {% include youtubePlayer5.html id=aXtKMlplMtI %}
