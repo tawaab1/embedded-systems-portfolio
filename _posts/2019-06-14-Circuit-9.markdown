@@ -15,9 +15,9 @@ youtubeId: A-Z6YLDT3dg
    
 * Reflection: I did it this way because it looked more logical to me than the default coding provided. This could be used a project where I
 am building a robot that warns itself that its about collide with an object
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d9.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d91.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c9.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c9a.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d9.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d91.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c9.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c9a.png "image")
 
 {% include youtubePlayer9.html id=A-Z6YLDT3dg %}
