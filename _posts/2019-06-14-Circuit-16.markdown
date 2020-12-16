@@ -12,7 +12,7 @@ youtubeId: QYmM0mgeAkM
 
 * Reflection: Looking back at this exercise, I can use what I have learnt to implement some sort of robot that not only detects if its going to hit something, but also implement a sensor if it goes dark it can switch on LED/RGB lights to light up its path.
 
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c16.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c16.png "image")
 
 {% include youtubePlayer16.html id=QYmM0mgeAkM %}
 {% include youtubePlayer16.html id=MLZ-6VWs97k %}
