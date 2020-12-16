@@ -12,8 +12,8 @@ youtubeId: dBmB5Js1vnQ
 * Bug: I noticed that the limit say about 0-255, and the motors did not run beyond 255 to 299 but beyond that it started running again. If I were to run 500 or 1500, the motors would still run but would not go faster as it were on 255. Even when I tried to implement my own if statement so that if the user has an input of more than 255, do not run the motor (instead show a message saying its "too fast"), it still did not work.
 
 * Reflection: Looking back on this, I can clearly see the implementation of this on toy cars and robots which have a remote control to make the motors function.
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d13.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d131.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c14.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d13.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d131.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c14.png "image")
 
 {% include youtubePlayer14.html id=dBmB5Js1vnQ %}
