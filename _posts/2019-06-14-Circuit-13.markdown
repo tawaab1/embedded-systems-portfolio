@@ -12,10 +12,10 @@ youtubeId: STZpDbQxcz8
 * No code changes implemented.
 
 * Reflection: Most circuits done so far have been using the power source of the laptop but now implementing its own power source is great because now I can create a robot that does not rely on an outside power source.
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d12.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d121.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d122.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c13.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c13a.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d12.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d121.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d122.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c13.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c13a.png "image")
 
 {% include youtubePlayer13.html id=STZpDbQxcz8 %}
