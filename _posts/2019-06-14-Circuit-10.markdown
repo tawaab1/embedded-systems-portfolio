@@ -13,10 +13,10 @@ youtubeId: rZe7Y9I6JrE
 
 * Reflection: I did similar changes here as the circuit done before (Circuit 3b - ). The only change was rather than having the first if statement (if(distance <= 5)), I had if(distance <= 10)
   {light red, sound the alarm and run the motor}
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d10.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d101.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d102.png "image")
-  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c10.png "image")
-  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c10a.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d10.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d101.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d102.png "image")
+  ![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c10.png "image")
+  ![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c10a.png "image")
   
   {% include youtubePlayer10.html id=rZe7Y9I6JrE %}
