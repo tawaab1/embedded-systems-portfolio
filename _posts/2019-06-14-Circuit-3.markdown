@@ -18,7 +18,7 @@ youtubeId: emIhVnD6vwE
 * In the video the readings on the serial monitor fluctuated when I moved the arduino because my arm still covered the light sensor which gave low readings at the start.
 
 * Reflections: This exercise gives me a sense of how automated lights work in a house or in a garden (garden lights or pathway lights), where there is natural light the lights are switched off, and when there is an absence of natural light, the garden light/house lights are turned on. This maybe detected by some sort photoresistor.
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/d3.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c3.png "image")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Embedded%20Systems%20Portfolio/images/c3a.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/d3.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c3.png "image")
+![alt text](https://raw.githubusercontent.com/tawaab1/portfolio-images/master/Embedded%20Systems%20Portfolio/images/c3a.png "image")
 {% include youtubePlayer3.html id=emIhVnD6vwE %}
